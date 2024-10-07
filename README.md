@@ -49,3 +49,12 @@ SELECT * FROM PAYMENTTABLE
 WHERE PAYMENT_METHOD = 'TRANSFER'
 ```
 
+## Data Visualization
+![excel file](https://github.com/user-attachments/assets/1915a170-6966-4aaf-b8e4-7f07cf938d9e)
+
+![sales by R](https://github.com/user-attachments/assets/949ec338-f05c-4725-a02f-d86c5ab219a9)
+
+![line of business](https://github.com/user-attachments/assets/f6db6819-4581-4409-aaff-924317a96f9c)
+
+![top 5 markets](https://github.com/user-attachments/assets/a78415ae-4165-4b34-8adb-db6be4b8770b)
+
