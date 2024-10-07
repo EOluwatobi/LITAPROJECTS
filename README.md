@@ -37,9 +37,8 @@ In the initial phase of the data cleaning and preparations, the following action
 ---
  EDA involves exploring of the data to provide answers to some questions about the data such as:
  - What is the total revenue of sales by region?
- - What line of business had the highest sales?
- - What 5 stores has the top sales?
- - What 5 stores has the lowest number of sales and unit sold? 
+ - What line of business has the highest sales?
+ - What 5 market has the top sales? 
 
 ## Data analysis
 ---
