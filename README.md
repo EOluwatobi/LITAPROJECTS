@@ -60,8 +60,8 @@ In the initial phase of the data cleaning and preparations, the following action
 Here, some basic lines of code or queries or even some of the DAX expressions were used during analysis:
 
 ```SQL
-SELECT * FROM PAYMENTTABLE
-WHERE PAYMENT_METHOD = 'TRANSFER'
+SELECT * FROM SALESTABLE
+AVERAGE_REVENUE = TOTAL_REVENUE / uNITSOLD
 ```
 
 ## Data Visualization
