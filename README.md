@@ -79,8 +79,6 @@ AVERAGE_REVENUE = TOTAL_REVENUE / UNITSOLD
 ---
 - ![Charts](https://github.com/user-attachments/assets/c7c282a9-f803-4dac-bce0-55482dd11fe2)
 
----
-- ![SQL Queries](https://github.com/user-attachments/assets/b021af7d-e847-4a80-9a80-9f50be183435)
 
   ## Discussion and Conclusion
   From our analysis, we are able to see that:
