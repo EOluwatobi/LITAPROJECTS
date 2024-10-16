@@ -84,6 +84,6 @@ WHERE PAYMENT_METHOD = 'TRANSFER'
 
   ## Discussion and Conclusion
   From our analysis, we are able to see that:
-     i.   In all the 6 regions, North East has the highest revenue generated. Hence, to further maintain/increase profit, determine what product sells more in that region and at what period, thereby making available more of this product for customers
-     ii.  The Service Plan product generates more revenue for the business with a sum of 51,866,481,960.00. Hence, more of this product should be available on the shelve for customers
-     iii. Amongst all the markets across the Regions, Ekiti has the highest sales of all products with the sum of 5,574,169,800. Followed closely is Abia, Bayelsa, Awka ibom and Kogi.
+     1. In all the 6 regions, North East has the highest revenue generated. Hence, to further maintain/increase profit, determine what product sells more in that region and at what period, thereby making available more of this product for customers
+     2. The Service Plan product generates more revenue for the business with a sum of 51,866,481,960.00. Hence, more of this product should be available on the shelve for customers
+     3. Amongst all the markets across the Regions, Ekiti has the highest sales of all products with the sum of 5,574,169,800. Followed closely is Abia, Bayelsa, Awka ibom and Kogi.
