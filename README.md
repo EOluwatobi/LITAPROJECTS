@@ -18,7 +18,7 @@
 
 ## Project Overview
 ---
-This project is aim at showcasing my learning journey on data analysis with Ladies in Tech Africa(LITA) which was taught by professional Data instructors from the Incubator Hub. The learning journey commenced with exploring basic excel functions and formulas handled by Mr. Mushin, then proceeding to Structured Querying Language(SQL) by Mr. Femi Ayodele and finally building portfolio and Powerbi was handled by Mr. Temidayo.
+This project is aim at analysing the sales report of a business operating in 6 different region and having different stores operating under it also at different markets. Their line of business includes copier sales, parts, service plan and printer sale. In this reports, several insights will be generated to determine the revenue generated in all the makets operating under the 6 regions, know the top selling region/market, the top selling product, the least selling region/market, the leaset selling product e.t.c. This report will help in making reasonable and profiting business decision to further improves sales in the business
 
 ## Data Sources
 ---
@@ -35,8 +35,6 @@ The primary source of data is from online tutorials such as Youtube and other cs
       
 - SQL- Structured querying Language
    1. for data querying using SQL keys and commands
-      
-- Githhub for creating portfolio
   
 - Powerbi
    1. For data visualization
@@ -82,3 +80,6 @@ WHERE PAYMENT_METHOD = 'TRANSFER'
 
 ---
 - ![SQL Queries](https://github.com/user-attachments/assets/b021af7d-e847-4a80-9a80-9f50be183435)
+
+  ## Conclusion
+  
