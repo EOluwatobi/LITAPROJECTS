@@ -61,7 +61,7 @@ Here, some basic lines of code or queries or even some of the DAX expressions we
 
 ```SQL
 SELECT * FROM SALESTABLE
-AVERAGE_REVENUE = TOTAL_REVENUE / uNITSOLD
+AVERAGE_REVENUE = TOTAL_REVENUE / UNITSOLD
 ```
 
 ## Data Visualization
